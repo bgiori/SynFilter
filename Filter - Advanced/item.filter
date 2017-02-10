@@ -721,11 +721,15 @@ ItemDisplay[CL3 !ETH NMAG RES>30 SOCK=3]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
 //ItemDisplay[!ETH NMAG 9tw  7tw (SK273>0 AND SK271>2) SOCK=0 SOCK=3]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
 //ItemDisplay[!ETH NMAG 9tw  7tw  9lw  7lw (SK267>0 AND SK278>2) SOCK=0 OR SOCK=3]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
 
+//HELM
+ItemDisplay[uap SOCK=2]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
+
 //SPIRIT
 4os Crystal Sword, Broad Sword, Larzuk Gaurantee, Phase Blade = SPIRIT 
 ItemDisplay[crs NMAG SOCK=4]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
 ItemDisplay[bsd NMAG SOCK=4]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
 ItemDisplay[lsd NMAG SOCK=4]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
+ItemDisplay[7cr NMAG SOCK=4]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
 Itemdisplay[crs NMAG SOCK=0 (ILVL>25 AND ILVL<41)]: %DGREEN%%NAME% %WHITE%[L%ILVL%]
 Itemdisplay[bsd NMAG SOCK=0 (ILVL>25 AND ILVL<41)]: %DGREEN%%NAME% %WHITE%[L%ILVL%]
 Itemdisplay[lsd NMAG SOCK=0 (ILVL>25 AND ILVL<41)]: %DGREEN%%NAME% %WHITE%[L%ILVL%]
