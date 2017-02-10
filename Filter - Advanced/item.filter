@@ -722,7 +722,7 @@ ItemDisplay[CL3 !ETH NMAG RES>30 SOCK=3]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
 //ItemDisplay[!ETH NMAG 9tw  7tw  9lw  7lw (SK267>0 AND SK278>2) SOCK=0 OR SOCK=3]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
 
 //SPIRIT
-4os Crystal Sword, Broad Sword, Larzuk Gaurantee = SPIRIT 
+4os Crystal Sword, Broad Sword, Larzuk Gaurantee, Phase Blade = SPIRIT 
 ItemDisplay[crs NMAG SOCK=4]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
 ItemDisplay[bsd NMAG SOCK=4]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
 ItemDisplay[lsd NMAG SOCK=4]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
